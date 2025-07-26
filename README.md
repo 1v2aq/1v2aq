@@ -59,10 +59,10 @@
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Mohammed-Saadiq&show_icons=true&theme=tokyonight" width="49%"/>
+src="https://github-readme-stats.vercel.app/api?username=1v2aq&show_icons=true&theme=tokyonight" width="49%"/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Saadiq&layout=compact&theme=tokyonight" width="49%"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=1v2aq&layout=compact&theme=tokyonight" width="49%"/>
 
 </div>
 
