@@ -76,8 +76,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&theme=tokyonight" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-XD&layout=compact&theme=tokyonight" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1v2aq&show_icons=true&theme=tokyonight&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1v2aq&layout=compact&theme=tokyonight&langs_count=6" width="49%"/>
 
 </div>
 
